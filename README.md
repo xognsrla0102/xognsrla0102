@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning Unity
 - 🚅 I'm from Korea
 
-### What I intersted in
+### What I interested in
 - 🔵 Game Graphics Programming
